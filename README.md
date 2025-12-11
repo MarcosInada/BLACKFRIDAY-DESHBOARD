@@ -1,7 +1,7 @@
 # BLACKFRIDAY 
 
 ![Dashboard Power BI Black Friday] 
-(Screenshot 2025-12-10 044624) 
+(Minhas.fotos/Screenshot 2025-12-10 044624) 
 
 Dashbord em Power Bi para analise de perfil de cliente durante a blackfriday.
 🛒 Black Friday – Análise do Perfil dos Clientes
