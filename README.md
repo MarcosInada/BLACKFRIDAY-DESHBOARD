@@ -110,7 +110,9 @@ Domínio de Power BI e DAX
 Capacidade de análise estratégica e Storytelling com dados
 
 Organização profissional de portfólio
+# Status 
+Projeto finalizado para fins de portfolio profissional.
 
-Autor: Marcos Inada
+## Autor: Marcos Inada
 
 Analista de Dados | Power BI | Insights de Produção e Mercado Pet
