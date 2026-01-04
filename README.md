@@ -127,4 +127,7 @@ Projeto finalizado para fins de portfólio profissional.
 
 ## Autor: Marcos Inada
 
-Analista de Dados | Power BI | Insights de Produção e Mercado Pet
+Analista de Dados | Power BI | Insights de Produção e Mercado Pet  
+LinkedIn: [ https://www.linkedin.com/in/marcosinada/ ]
+
+E-mail: marcoscorleone1985@gmail.com
